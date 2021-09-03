@@ -1,5 +1,5 @@
 # django-vue-restapi
-in this project i create rest api using django and vue by django rest_framework
+in this project i create rest api using django and vue CLI by django rest_framework 
 
 # installation guide
 first of all install all kinds of necessary api library and tools
